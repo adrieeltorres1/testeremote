@@ -19,7 +19,7 @@ GIT ESTÁGIOS:
  UNTRACKED
    é quando o arquivo ele acabou de ser criado e tem que ser adicionado no git
    parasair de untracked para unmofied é só dar o comando git add
-   
+
  ffffff
 
  UNMOFIED
@@ -30,5 +30,6 @@ GIT ESTÁGIOS:
     O GIT OLHA PARA AS MODIFICAÇÕES DO ARQUIVO QUE FORAM FEITAS APÓS ELE TER SIDO UNMOFIED
  STAGED
 
-
 eu tô adicionando uma nova linha
+
+eu vou adicionar uma linha pra commitar
