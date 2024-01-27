@@ -11,3 +11,19 @@ E TAMBÉM É POSSÍVEL USAR PARA SABERA  BRANCH QUE VOCÊ TÁ TRABALHANDO
 
  
 
+GIT ADD . / GIT ADD NOME DO ARQUIVO
+   ELE VAI FALAR PARA O GIT COMEÇAR A OLHAR O ARQUIVO
+
+
+GIT ESTÁGIOS:
+ UNTRACKED
+   é quando o arquivo ele acabou de ser criado e tem que ser adicionado no git
+   para sair de untracked para unmofied é só dar o comando git add
+ 
+
+ UNMOFIED
+   O GIT OLHA PARA AS MODIFICAÇÕES DO ARQUIVO
+ 
+ MOFIED
+    O GIT OLHA PARA AS MODIFICAÇÕES DO ARQUIVO QUE FORAM FEITAS APÓS ELE TER SIDO UNMOFIED
+ STAGED
